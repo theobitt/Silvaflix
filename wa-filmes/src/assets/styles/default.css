@@ -1,0 +1,39 @@
+:root {
+  --c-default: #0093c9;
+  --c-contrast: #0093c9;
+  --c-default2: #006098;
+  --c-cleangrey: #ccc;
+  --c-aguardando: #ccc;
+  --c-white: #ffffff;
+  --c-white-default: #f8f8f2;
+  --c-white-modal: #f8f8f2;
+  --c-white-hover-default: #e6e6e6;
+  --c-white-default2: #ffffff;
+  --c-white-default3: #d3d2d2;
+  --c-clean-grey: #cccccc;
+  --c-app-bg: rgb(18, 18, 18);
+  --border-radius: 10px;
+  --padding: 8px;
+  --c-red-default: #dd3333;
+  --c-default-text: #000;
+}
+
+:root.dark-mode {
+  --c-default: #0093c9;
+  --c-contrast: #FFF;
+  --c-default2: #006098;
+  --c-cleangrey: #363636;
+  --c-aguardando: #d0d0d0;
+  --c-white: #ffffff;
+  --c-white-default: #020202;
+  --c-white-modal: rgb(38, 38, 38);
+  --c-white-hover-default: #3e3e3e;
+  --c-white-default2: #2f272c;
+  --c-white-default3: #393939;
+  --c-app-bg: #333;
+  --c-clean-grey: #cccccc;
+  --border-radius: 10px;
+  --padding: 8px;
+  --c-red-default: #dd3333;
+  --c-default-text: #FFF;
+}
